@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="BALLERINA_REPOSITORY &lt;bal-telegram&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Programs/Ballerina/lib/repo/ballerinax" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Programs/Ballerina/lib/repo/ballerinax" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
